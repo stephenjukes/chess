@@ -5,3 +5,5 @@ A game that calls out illegal moves, check and checkmate, but if you're not that
 Play at: https://repl.it/EMbd/0
 
 Move by entering the co-ordinate of your piece and the co-ordinate of your intended move, separated by a colon, (or any other delimiter of your choice).
+
+Practice Point: Creating classes and instantiating objects.
