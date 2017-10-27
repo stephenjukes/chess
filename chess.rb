@@ -71,7 +71,7 @@ class EmptySquare
     def initialize(pos)
         @color = nil
         @pos = pos
-        @form = "."
+        @form = "⬛"
     end
 end
 
